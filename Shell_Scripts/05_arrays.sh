@@ -4,7 +4,7 @@
 
 myArray=(1 20 30.5 Hello "Hello World")
 
-echo "Value in first index ${myArray[0]} Value in second index ${myArray[2]}"
+echo "Value in first index ${myArray[0]} Value in second index ${myArray[1]}"
 
 #Let's try printing all the values of the array
 
